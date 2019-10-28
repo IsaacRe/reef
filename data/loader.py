@@ -1,7 +1,7 @@
 import numpy as np
 import scipy
 import json
-import sklearn.cross_validation
+import sklearn.model_selection
 
 from scipy import sparse
 from sklearn.feature_extraction.text import CountVectorizer
